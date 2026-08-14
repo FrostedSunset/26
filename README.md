@@ -16,12 +16,4 @@ This repository contains the official PyTorch implementation of our paper:
 
 ## 📝 Citation
 
-If you find this work useful for your research, please consider citing our paper:
-
-```bibtex
-@article{your_paper_citation,
-  title={Uncertainty Calibration With Conformal Prediction For Multi-Scale Abnormal Cervical Cell Detection},
-  author={[Your Names]},
-  journal={[Journal Name]},
-  year={2026}
-}
+If you find this work useful for your research, please consider citing our paper.
